@@ -17,3 +17,4 @@
 - [basic_gltf2.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_gltf2.html)
 - [basic_hands.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_hands.html)
 - [basic_hands2.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_hands2.html)
+- [basic_hands_objects.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_hands_objects.html)
