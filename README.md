@@ -1,12 +1,10 @@
-- First touch a-frame - course
+# First touch a-frame - course
 
- * seminar 01
+### Seminar links
   - https://jgbarah.github.io/aframe-playground/seminar-01/
-
-* seminar 02
   - https://jgbarah.github.io/aframe-playground/seminar-02/
 
-# Direct link to seminar 02 codes to preview in VR/AR
+### Direct link to seminar 02 codes to preview in VR/AR
 
 - [basic_ar.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_ar.html)
 - [basic_ar2.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_ar2.html)
