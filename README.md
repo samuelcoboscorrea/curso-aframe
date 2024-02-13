@@ -10,6 +10,7 @@
 
 - [basic_ar.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_ar.html)
 - [basic_ar2.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_ar2.html)
+- [basic_ar3.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_ar3.html)
 - [basic_events.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_events.html)
 - [basic_events2.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_events2.html)
 - [basic_gltf.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_gltf.html)
