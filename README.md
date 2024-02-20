@@ -3,6 +3,7 @@
 ### Seminar links
   - https://jgbarah.github.io/aframe-playground/seminar-01/
   - https://jgbarah.github.io/aframe-playground/seminar-02/
+  - https://jgbarah.github.io/aframe-playground/seminar-03/
 
 ### Direct link to seminar 02 codes to preview in VR/AR
 
