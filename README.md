@@ -17,3 +17,11 @@
 - [basic_hands.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_hands.html)
 - [basic_hands2.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_hands2.html)
 - [basic_hands_objects.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-02/basic_hands_objects.html)
+
+### Direct link to seminar 03 codes to preview in VR/AR
+
+- [scene_component3.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-03/scene_component3.html)
+- [scene_component.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-03/scene_component.html)
+- [scene_component4.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-03/scene_component4.html)
+- [scene_component2.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-03/scene_component2.html)
+- [scene_component5.html](https://samuelcoboscorrea.github.io/curso-aframe/seminar-03/scene_component5.html)
